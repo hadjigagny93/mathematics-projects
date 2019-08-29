@@ -1,0 +1,3 @@
+# mathematics-projects
+- For the moment, there is only one mathematics project.
+- I'm working on information theory to explain neural network and it will be update soon...
